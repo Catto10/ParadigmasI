@@ -20,4 +20,4 @@ public class Sum {
         JOptionPane.showMessageDialog(null, "The sum is: "+ suma, "Sum of two integers"
                 , JOptionPane.PLAIN_MESSAGE);
     }
-}//end of the Sum class
+}//end of the Sum
