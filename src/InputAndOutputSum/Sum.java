@@ -1,4 +1,4 @@
-package InterfazGrafica;
+package InputAndOutputSum;
 
 //Fig. 12.2 Sum.java
 //  Sum program using JOptionPane for input and output
